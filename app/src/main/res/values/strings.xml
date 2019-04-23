@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="add_click_hint">Click here to add items to your shopping list</string>
+    <string name="add_item">Add Item</string>
+    <string name="tag_item">TAG_ITEM</string>
+    <string name="quantity">Quantity: %1$s</string>
+    <string name="edit_item_dialog">EDIT_ITEM_DIALOG</string>
+    <string name="key_open">KEY_WAS_OPEN</string>
+    <string name="total_cost">Total Cost: $%1$s</string>
+    <string name="item_price">Item Price: $%1$s</string>
+    <string name="item_handler_error">The activity does not implement the ItemHandlerInterface</string>
+    <string name="item_name">Item Name: %1$s</string>
+    <string name="item_name_holder">Item Name</string>
+    <string name="item_description_holder">Item Description</string>
+    <string name="item_price_holder">Item Price</string>
+    <string name="item_quantity_holder">Item Quantity</string>
+    <string name="ok">OK</string>
+    <string name="new_item">New item</string>
+    <string name="edit_item">Edit item</string>
+    <string name="category_food">"Category: Food"</string>
+    <string name="category_clothing">"Category: Clothing"</string>
+    <string name="category_electronics">"Category: Electronics"</string>
+    <string name="category_household">"Category: Household"</string>
+    <string-array name="item_categories">
+        <item>Food</item>
+        <item>Clothing</item>
+        <item>Electronics</item>
+        <item>Household</item>
+    </string-array>
+    <string name="item_description">Item Description: %1$s</string>
+    <string name="splash_activity">Splash Activity</string>
+    <string name="edit_string">Edit</string>
+    <string name="delete_all">Delete All</string>
+    <string name="purchased">Purchased</string>
+    <string name="total_cost_initial">Total Cost: $0.00</string>
+    <string name="format_string">%.2f</string>
+    <string name="key_item_to_edit">KEY_ITEM_TO_EDIT</string>
+    <string name="empty_category">The quantity field cannot be empty</string>
+    <string name="empty_name">The name field cannot be empty</string>
+    <string name="empty_description">The description field cannot be empty</string>
+    <string name="empty_price">The price field cannot be empty</string>
+    <string name="small_price">The price of an item must be greater than $0.00</string>
+    <string name="empty_quantity">The quantity field cannot be empty</string>
+    <string name="small_quantity">The quantity for an item must be at least 1</string>
+    <string name="action_settings">Settings</string>
+</resources>
